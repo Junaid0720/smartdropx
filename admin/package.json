@@ -1,5 +1,5 @@
 {
-  "name": "smartdropx-reseller",
+  "name": "smartdropx-admin",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
