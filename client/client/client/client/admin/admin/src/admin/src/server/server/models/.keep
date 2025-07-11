@@ -1,0 +1,14 @@
+smartdropx/
+├── client/
+│   ├── src/
+│   └── public/
+│   └── README.md
+├── admin/
+│   ├── src/
+│   └── public/
+│   └── README.md
+└── server/
+    ├── routes/
+    ├── controllers/
+    ├── models/
+    └── README.md
