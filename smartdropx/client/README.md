@@ -1,0 +1,3 @@
+# SmartDropX Frontend (React)
+
+Coming soon...

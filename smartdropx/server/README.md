@@ -1,0 +1,3 @@
+# SmartDropX Backend (Node/Express)
+
+Coming soon...
